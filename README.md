@@ -20,6 +20,7 @@ sudo apt install ./<deb package>
 ```
 ##
 <b>Tested Devices</b>
+- Jetson Orin Nano 8 Gb
 - Raspberry Pi 4 - Raspbian Buster
 - PineBook Pro - Debian Stretch
 - Asus Tinkerboard - Tinker OS (Debian Stretch)
